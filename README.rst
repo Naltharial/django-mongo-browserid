@@ -1,4 +1,4 @@
-django-browserid
+django-mongo-browserid
 ================
 
 |TravisCI|_
@@ -7,7 +7,7 @@ django-browserid
 .. _TravisCI: https://secure.travis-ci.org/mozilla/django-browserid
 
 django-browserid is a library that integrates BrowserID_ authentication into
-Django_.
+Django_. django-mongo-browserid is the version that uses MongoEngine backend.
 
 .. _Django: http://www.djangoproject.com/
 .. _BrowserID: https://browserid.org/

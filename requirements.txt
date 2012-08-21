@@ -1,4 +1,6 @@
 requests>=0.9.1
+mongoengine==0.6.9
+pymongo==2.2.1
 
 # Tests
 mock>=0.8.0
